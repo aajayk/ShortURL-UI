@@ -12,5 +12,5 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## [Live Site ](https://shorten-er.netlify.app/)
-![Application ](https://ibb.co/CHHdyHq)
+![Application ](https://i.ibb.co/kSSnTSp/shortner-Pic.jpg)
 
